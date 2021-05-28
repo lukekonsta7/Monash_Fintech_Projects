@@ -5,4 +5,4 @@ This is a potfolio of some of the work I have completed throguhout my time doing
 
 Please, be my guest and filter through my projects to get an understanding on my skill level and expertise.
 
-## Be advised, this is a work in progress and I am still a quite a lengths away from completing this course.
+### Be advised, this is a work in progress and I am still a quite a lengths away from completing this course.
