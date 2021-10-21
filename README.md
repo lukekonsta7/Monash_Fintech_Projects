@@ -1,7 +1,7 @@
 # [Project 1](https://github.com/tiantran87/fintechproject1) 
 ## Interactive Retirement Portfolia using Python 
 
-# [Project 2](https://github.com/tiantran87/fintechproject1) 
+# [Project 2](https://github.com/MattBuck4/Project-2)
 ## COVID-19 Vaccine Predictions
 
 # [Project 3](https://github.com/TribThapa/NFTs)
