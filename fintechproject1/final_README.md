@@ -7,7 +7,7 @@
 
 This interactive dashboard is a planning tool that allows users to have an access to historical data and various risk analysis for a range of stocks & cryptos (10 each type).  To get a result, users can simply select stocks/cryptos from dropdown and slide menu. We strove to make a friendly interface that was both informative and easy to use.
 
-## Technologies, API resource and liburaries used
+## Technologies, API resource and libraries used
 * Python - pandas, numpy 
 * Pyviz - hvplot, plotly, panel
 * Yfinance - this is a small Python library that will fetch LIVE data from Yahoo Finance service and return a neat dataframe for data manipulation.
